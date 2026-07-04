@@ -1,8 +1,12 @@
 # 低端影视 API Xiuno BBS 插件
 
+[English](README.md) | 简体中文
+
 低端影视 API 的官方 Xiuno BBS 4.x 插件。安装后，论坛可以通过本地页面、短代码和本地 JSON 代理展示 [低端影视](https://ddys.io/) API 内容，并支持服务端求片提交。
 
 - GitHub 仓库：[ddysiodev/ddys-xiuno-plugin](https://github.com/ddysiodev/ddys-xiuno-plugin)
+- GitHub Release：[v0.1.0](https://github.com/ddysiodev/ddys-xiuno-plugin/releases/tag/v0.1.0)
+- 下载压缩包：[ddys-xiuno-plugin-v0.1.0.zip](https://github.com/ddysiodev/ddys-xiuno-plugin/releases/download/v0.1.0/ddys-xiuno-plugin-v0.1.0.zip)
 - 插件目录：`ddys_open`
 - 兼容目标：Xiuno BBS 4.0.x 传统插件体系
 - 分发方式：GitHub Release ZIP

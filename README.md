@@ -1,8 +1,12 @@
 # DDYS API Xiuno BBS Plugin
 
+English | [简体中文](README.zh-CN.md)
+
 Official Xiuno BBS 4.x plugin for the [DDYS](https://ddys.io/) API. It adds local pages, shortcodes, a server-side JSON proxy, caching, diagnostics, and a request form without exposing the API Key in the browser.
 
 - Repository: [ddysiodev/ddys-xiuno-plugin](https://github.com/ddysiodev/ddys-xiuno-plugin)
+- GitHub Release: [v0.1.0](https://github.com/ddysiodev/ddys-xiuno-plugin/releases/tag/v0.1.0)
+- Download ZIP: [ddys-xiuno-plugin-v0.1.0.zip](https://github.com/ddysiodev/ddys-xiuno-plugin/releases/download/v0.1.0/ddys-xiuno-plugin-v0.1.0.zip)
 - Plugin directory: `ddys_open`
 - Target: Xiuno BBS 4.0.x classic plugin system
 - Distribution: GitHub Release ZIP
