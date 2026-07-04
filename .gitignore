@@ -1,0 +1,9 @@
+.env
+*.zip
+*.log
+*.bak
+node_modules/
+vendor/
+tmp/
+cache/
+ddys_open/data/

@@ -1,0 +1,45 @@
+.ddys-admin-code {
+  min-height: 90px;
+  font-family: Consolas, Monaco, monospace;
+}
+
+[data-ddys-xiuno-generator] textarea {
+  font-family: Consolas, Monaco, monospace;
+}
+
+[data-ddys-xiuno-generator] label {
+  font-weight: 600;
+}
+
+.ddys-admin-checks {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.ddys-admin-check {
+  display: grid;
+  gap: 3px;
+  padding: 8px 0;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.ddys-admin-check:last-child {
+  border-bottom: 0;
+}
+
+.ddys-admin-check span {
+  color: #667085;
+}
+
+.ddys-admin-check-ok strong {
+  color: #047857;
+}
+
+.ddys-admin-check-warn strong {
+  color: #b45309;
+}
+
+.ddys-admin-check-info strong {
+  color: #2563eb;
+}

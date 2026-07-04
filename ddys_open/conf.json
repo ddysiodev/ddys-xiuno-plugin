@@ -1,0 +1,19 @@
+{
+  "name": "低端影视 API",
+  "brief": "低端影视 API 的官方 Xiuno BBS 插件，支持前台展示、短代码、本地代理、缓存、后台诊断和求片表单。",
+  "version": "0.1.0",
+  "bbs_version": "4.0.4",
+  "installed": 0,
+  "enable": 0,
+  "hooks_rank": {
+    "model_inc_start.php": 50,
+    "index_inc_start.php": 50,
+    "index_inc_route_before.php": 50,
+    "header_link_after.htm": 50,
+    "header_nav_home_link_after.htm": 50
+  },
+  "overwrites_rank": {},
+  "dependencies": {},
+  "have_setting": 1,
+  "setting_url": 1
+}
